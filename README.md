@@ -1,2 +1,39 @@
-# repo-test
-Used for simulating a remote repo to private to local
+# 用户指南
+
+## 介绍
+
+欢迎使用我们的测试仓库！这个文档将帮助您了解如何使用我们的工具和功能。
+
+## 安装
+
+要安装此项目，请运行以下命令：
+
+```bash
+git clone https://github.com/saschamcdonald/repo-test.git
+cd repo-test
+npm install
+```
+
+## 使用说明
+
+使用这个工具非常简单，只需按照以下步骤操作：
+
+1. 打开终端
+2. 导航到项目目录
+3. 运行 `node example.js`
+
+## 常见问题
+
+### 为什么我的代码无法运行？
+
+请确保您安装了所有依赖项并正确设置了环境变量。
+
+### 如何贡献代码？
+
+我们欢迎您提交拉取请求和问题报告。请参阅我们的贡献指南获取更多信息。
+
+## 联系方式
+
+如有任何问题，请发送电子邮件至 support@example.com。
+
+感谢您使用我们的工具！
